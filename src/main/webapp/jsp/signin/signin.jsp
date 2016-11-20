@@ -50,7 +50,7 @@
              </div>
              
              <div class="form-group">
-             	<a id="btn-fblogin" href="<c:url value="/plain/auth/facebook"/>" class="btn btn-primary" style="width: 100%;">Entrar com Facebook</a>
+             	<a id="btn-fblogin" href="<c:url value="/auth/facebook"/>" class="btn btn-primary" style="width: 100%;">Entrar com Facebook</a>
              </div>
  
              <div class="form-group">
